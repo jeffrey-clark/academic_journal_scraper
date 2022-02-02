@@ -1,0 +1,42 @@
+{
+  "oxford_journals": {
+
+    "ej":
+    {
+      "name": "The Economic Journal",
+      "dir_name": "Economic_Journal"
+    },
+
+    "ectj":
+    {
+      "name": "The Econometrics Journal",
+      "dir_name": "Econometrics_Journal"
+    },
+
+    "qje":
+    {
+      "name": "The Quarterly Journal of Economics",
+      "dir_name": "Quarterly_Journal_of_Economics"
+    },
+
+    "restud":
+    {
+      "name": "The Review of Economic Studies",
+      "dir_name": "Review_of_Economic_Studies"
+    },
+
+    "oxrep":
+    {
+      "name": "Oxford Review of Economic Policy",
+      "dir_name": "Oxford_Review_of_Economic_Policy"
+    },
+
+    "cje":
+    {
+      "name": "Cambridge Journal of Economics",
+      "dir_name": "Cambridge_Journal_of_Economics"
+    }
+
+
+  }
+}
